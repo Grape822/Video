@@ -28,7 +28,7 @@ private:
 
 void MyThread::setRunning(bool running)
 {
-	this->isRunning = running;
+	this->isRunning = running;//s
 }
 
 #endif // MYTHREAD_H
